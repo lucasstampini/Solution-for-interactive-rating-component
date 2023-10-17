@@ -177,7 +177,7 @@ footer{
 @media (min-width:1600px) {
 
     .container{
-        margin: 256px 680px;
+        margin: 200px 640px;
         border-radius: 32px;
     } 
 
@@ -188,6 +188,22 @@ footer{
     .thx-img{
         margin-top: 32px;
     }
+}
+
+@media (min-width:1720px) {
+
+    .container{
+        margin: 200px 680px;
+        border-radius: 32px;
+    } 
+}
+
+@media (min-width:1920px) {
+
+    .container{
+        margin: 200px 760px;
+        border-radius: 32px;
+    } 
 }
 
 @media (min-width: 2500px) {
